@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Play without Context (Fixed)",
+        "description": "Adds a \"Play without context\" item to the track context menu, so you can play a track without its playlist or album context. Fixed and maintained fork of Aimarekin's extension for current Spotify builds.",
+        "preview": "play-without-context/assets/square-example.png",
+        "main": "_dist/play-without-context.js",
+        "readme": "play-without-context/README.md",
+        "authors": [
+            { "name": "m1nuzz", "url": "https://github.com/m1nuzz" },
+            { "name": "Aimarekin", "url": "https://github.com/Aimarekin" }
+        ],
+        "tags": [
+            "play",
+            "track",
+            "context"
+        ]
+    }
+]
